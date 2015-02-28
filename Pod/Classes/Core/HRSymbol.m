@@ -8,4 +8,5 @@
 const struct HRSymbol HRSymbol = {
         .Linux = @"linux",
         .Opera = @"opera",
+        .Safari = @"safari",
 };

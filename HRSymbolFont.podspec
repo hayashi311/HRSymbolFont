@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "HRSymbolFont"
-  s.version          = "0.1.0"
+  s.version          = "0.2.0"
   s.summary          = "A short description of HRSymbolFont."
   s.description      = <<-DESC
                        An optional longer description of HRSymbolFont
