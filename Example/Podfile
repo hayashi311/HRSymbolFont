@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'HRSymbolFont', :exclusive => true do
+  pod "HRSymbolFont", :path => "../"
+
+  
+end

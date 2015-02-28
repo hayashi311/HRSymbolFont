@@ -1,0 +1,18 @@
+PODS:
+  - HRSymbolFont (0.1.0):
+    - HRSymbolFont/Core (= 0.1.0)
+    - HRSymbolFont/UI (= 0.1.0)
+  - HRSymbolFont/Core (0.1.0)
+  - HRSymbolFont/UI (0.1.0)
+
+DEPENDENCIES:
+  - HRSymbolFont (from `../`)
+
+EXTERNAL SOURCES:
+  HRSymbolFont:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HRSymbolFont: 7be499b66db32e1506f018d6bba101cbea9db962
+
+COCOAPODS: 0.35.0
