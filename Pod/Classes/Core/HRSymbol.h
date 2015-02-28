@@ -6,7 +6,8 @@
 #import <Foundation/Foundation.h>
 
 extern const struct HRSymbol {
-__unsafe_unretained NSString *const Linux;
+__unsafe_unretained NSString *const Ie;
+    __unsafe_unretained NSString *const Linux;
     __unsafe_unretained NSString *const Opera;
     __unsafe_unretained NSString *const Safari;
     

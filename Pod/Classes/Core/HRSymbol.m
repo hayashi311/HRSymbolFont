@@ -6,6 +6,7 @@
 #import "HRSymbol.h"
 
 const struct HRSymbol HRSymbol = {
+        .Ie = @"ie",
         .Linux = @"linux",
         .Opera = @"opera",
         .Safari = @"safari",
